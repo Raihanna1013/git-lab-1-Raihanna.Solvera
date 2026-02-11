@@ -13,3 +13,34 @@ transition: all 0.3s ease;
 button:hover { 
 transform: scale(1.05); 
 } 
+
+/* Dark Mode Styles */
+body.dark-mode {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+body.dark-mode h1 {
+  color: #4CAF50;
+}
+
+.theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+  background: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+/* New Animations */ 
+.fade-in { 
+animation: fadeIn 0.5s; 
+} 
+@keyframes fadeIn { 
+from { opacity: 0; } 
+to { opacity: 1; } 
+} 
