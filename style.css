@@ -6,3 +6,10 @@ background-color: #f0f0f0;
 h1 { 
 color: #333; 
 } 
+/* Button Styles */ 
+button { 
+transition: all 0.3s ease; 
+} 
+button:hover { 
+transform: scale(1.05); 
+} 
