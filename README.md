@@ -16,3 +16,23 @@
 
 
 
+\## Features 
+
+\- Dark mode toggle 
+
+\- Responsive design 
+
+\- Clean UI 
+
+
+
+\## Features 
+
+\- Interactive dark mode 
+
+\- Modern UI design 
+
+\- Fast loading 
+
+
+
