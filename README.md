@@ -16,21 +16,55 @@
 
 
 
+\## Features
+
+\- Dark mode toggle
+
+\- Responsive design
+
+\- Clean UI
+
+
+
+\## Features
+
+\- Interactive dark mode
+
+\- Modern UI design
+
+\- Fast loading
+
+
+
+\# File will show: 
+
+\# <<<<<<< HEAD 
+
+\# - Dark mode toggle 
+
+\# - Responsive design 
+
+\# - Clean UI 
+
+\# ======= 
+
+\# - Interactive dark mode 
+
+\# - Modern UI design 
+
+\# - Fast loading 
+
+\# >>>>>>> feature/update-readme 
+
+\# 3. Edit README.md dengan text editor # Pilih atau gabungkan kedua versi: 
+
 \## Features 
 
-\- Dark mode toggle 
+\- Interactive dark mode toggle 
 
-\- Responsive design 
+\- Responsive and modern UI design 
 
-\- Clean UI 
-
-
-
-\## Features 
-
-\- Interactive dark mode 
-
-\- Modern UI design 
+\- Clean interface 
 
 \- Fast loading 
 
